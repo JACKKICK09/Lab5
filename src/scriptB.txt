@@ -1,0 +1,3 @@
+info
+execute_script /Users/jackkick/IdeaProjects/Lab5/src/scriptC.txt
+show

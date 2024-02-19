@@ -1,0 +1,2 @@
+show
+execute_script /Users/jackkick/IdeaProjects/Lab5/src/scriptA.txt
